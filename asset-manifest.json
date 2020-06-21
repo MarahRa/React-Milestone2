@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Milestone2/static/css/main.968cd1e0.chunk.css",
+    "main.js": "/React-Milestone2/static/js/main.8985a19f.chunk.js",
+    "main.js.map": "/React-Milestone2/static/js/main.8985a19f.chunk.js.map",
+    "runtime-main.js": "/React-Milestone2/static/js/runtime-main.f7fd8474.js",
+    "runtime-main.js.map": "/React-Milestone2/static/js/runtime-main.f7fd8474.js.map",
+    "static/js/2.3043dd03.chunk.js": "/React-Milestone2/static/js/2.3043dd03.chunk.js",
+    "static/js/2.3043dd03.chunk.js.map": "/React-Milestone2/static/js/2.3043dd03.chunk.js.map",
+    "index.html": "/React-Milestone2/index.html",
+    "precache-manifest.dc08fafad8bcc7e3609ab50ccff26acf.js": "/React-Milestone2/precache-manifest.dc08fafad8bcc7e3609ab50ccff26acf.js",
+    "service-worker.js": "/React-Milestone2/service-worker.js",
+    "static/css/main.968cd1e0.chunk.css.map": "/React-Milestone2/static/css/main.968cd1e0.chunk.css.map",
+    "static/js/2.3043dd03.chunk.js.LICENSE.txt": "/React-Milestone2/static/js/2.3043dd03.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f7fd8474.js",
+    "static/js/2.3043dd03.chunk.js",
+    "static/css/main.968cd1e0.chunk.css",
+    "static/js/main.8985a19f.chunk.js"
+  ]
+}
