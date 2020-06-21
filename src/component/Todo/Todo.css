@@ -1,0 +1,14 @@
+.check-mark {
+  text-decoration: none;
+  padding: 0;
+  border: none;
+  background: none;
+}
+
+.delete-mark {
+  text-decoration: none;
+  padding: 0;
+  border: none;
+  background: none;
+  margin-left: 20px;
+}
